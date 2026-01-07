@@ -1,0 +1,541 @@
+{
+  "pays": "Géorgie",
+  "drapeau": "🇬🇪",
+  "symbole": "🍇",
+  "titre": "Tbilissi : Évasion Relaxante au Cœur du Caucase",
+  "budget_total": "Environ 2050 €/personne",
+  "duree": "14 jours",
+  "date_debut": "2026-01-09",
+  "date_fin": "2026-01-22",
+  "temps_vol": "7h30 (format: Xh depuis Paris, france)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Premiers Pas dans le Vieux Tbilissi",
+      "legende": "Après un vol confortable, vous atterrissez dans la capitale géorgienne. Une fois installé, une douce promenade dans les ruelles pavées du Vieux Tbilissi vous attend. Laissez-vous charmer par l\"architecture colorée et l\"ambiance sereine de ce quartier historique, parfait pour une première immersion relaxante.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>🛬 Arrivée à Tbilissi</strong>: Transfert depuis l\"aéroport et installation à votre hôtel au cœur de la ville.",
+        "<strong>🛏️ Check-in et détente</strong>: Prenez le temps de vous rafraîchir et de vous reposer après le voyage.",
+        "<strong>🚶‍♂️ Balade dans le Vieux Tbilissi</strong>: Flânez dans les charmantes rues de Shardeni et explorez les environs des bains de soufre, sans précipitation."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport International de Tbilissi, Tbilissi",
+          "categorie": "Aéroport",
+          "coords": { "lat": 41.6700, "lng": 44.9500 }
+        },
+        {
+          "nom_recherche": "Vieux Tbilissi, Tbilissi",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 41.6900, "lng": 44.8000 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le trajet depuis l\"aéroport vers le centre-ville prend environ 20-30 minutes en taxi ou en navette. Négociez le prix du taxi ou utilisez une application comme Bolt."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🛀",
+      "titre": "Fortresse, Mère de la Géorgie et Bains de Soufre",
+      "legende": "Commencez la journée par une vue imprenable sur la ville depuis la Forteresse de Narikala, accessible par un téléphérique panoramique. Après avoir salué la Mère de la Géorgie, offrez-vous une expérience de relaxation ultime dans les célèbres bains de soufre d\"Abanotubani. Une journée entre histoire et bien-être.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>🚠 Montée à la Forteresse de Narikala</strong>: Prenez le téléphérique pour admirer la vue panoramique sur Tbilissi.",
+        "<strong>🚶‍♀️ Rencontre avec la Mère de la Géorgie</strong>: Promenez-vous jusqu\"à la statue emblématique Kartlis Deda, symbole de l\"hospitalité géorgienne.",
+        "<strong>🧖‍♀️ Détente aux Bains de Soufre d\"Abanotubani</strong>: Plongez dans les eaux chaudes et curatives des bains publics ou privatifs, une tradition locale incontournable."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Forteresse de Narikala, Tbilissi",
+          "categorie": "Forteresse",
+          "coords": { "lat": 41.6870, "lng": 44.8070 }
+        },
+        {
+          "nom_recherche": "Statue Mère de la Géorgie, Tbilissi",
+          "categorie": "Monument",
+          "coords": { "lat": 41.6880, "lng": 44.8060 }
+        },
+        {
+          "nom_recherche": "Bains de Soufre d\"Abanotubani, Tbilissi",
+          "categorie": "Bains publics",
+          "coords": { "lat": 41.6870, "lng": 44.8090 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil Bains",
+          "texte": "Réservez votre salle privée aux bains de soufre à l\"avance, surtout le week-end, pour garantir votre créneau de relaxation."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "⛪",
+      "titre": "Splendeurs Religieuses et Marché aux Trésors",
+      "legende": "Découvrez la majestueuse Cathédrale de la Sainte Trinité, un symbole de la Géorgie moderne. Traversez le futuriste Pont de la Paix et explorez le Parc Rike, un espace vert urbain. Terminez la journée par une chasse aux trésors au marché aux puces du Pont Sec, où l\"histoire se vend au détail.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>⛪ Visite de la Cathédrale Sameba</strong>: Admirez l\"architecture impressionnante de la plus grande cathédrale orthodoxe de Géorgie.",
+        "<strong>🌉 Promenade au Pont de la Paix et Parc Rike</strong>: Traversez ce pont moderne et profitez d\"une balade relaxante dans le parc adjacent.",
+        "<strong>🛍️ Exploration du Marché du Pont Sec</strong>: Cherchez des antiquités, des œuvres d\"art et des souvenirs uniques dans ce marché en plein air."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Cathédrale de la Sainte Trinité de Tbilissi, Tbilissi",
+          "categorie": "Cathédrale",
+          "coords": { "lat": 41.6970, "lng": 44.8140 }
+        },
+        {
+          "nom_recherche": "Pont de la Paix, Tbilissi",
+          "categorie": "Pont",
+          "coords": { "lat": 41.6920, "lng": 44.8070 }
+        },
+        {
+          "nom_recherche": "Parc Rike, Tbilissi",
+          "categorie": "Parc",
+          "coords": { "lat": 41.6920, "lng": 44.8080 }
+        },
+        {
+          "nom_recherche": "Marché du Pont Sec, Tbilissi",
+          "categorie": "Marché aux puces",
+          "coords": { "lat": 41.7000, "lng": 44.7980 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🎨",
+          "titre": "Art et Histoire",
+          "texte": "Le marché du Pont Sec est un lieu fascinant où des artistes locaux et des vendeurs d\"antiquités se côtoient. Idéal pour trouver des pièces uniques."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "⛰️",
+      "titre": "Vues Panoramiques et Détente au Mont Mtatsminda",
+      "legende": "Montez en funiculaire jusqu\"au Mont Mtatsminda pour des vues à couper le souffle sur Tbilissi. Profitez d\"une balade tranquille dans le parc d\"attractions et visitez le Panthéon. Une journée en hauteur, loin de l\"agitation urbaine, pour apprécier la beauté du paysage géorgien.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>🎢 Montée en funiculaire au Mont Mtatsminda</strong>: Profitez d\"une ascension pittoresque offrant des vues spectaculaires.",
+        "<strong>🌳 Promenade au Parc Mtatsminda</strong>: Détendez-vous dans ce grand parc, idéal pour une balade douce et des photos.",
+        "<strong>🏛️ Visite du Panthéon de Mtatsminda</strong>: Découvrez le lieu de repos de personnalités géorgiennes célèbres, dont l\"écrivain Ilia Chavchavadze."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Funiculaire de Tbilissi, Tbilissi",
+          "categorie": "Transport",
+          "coords": { "lat": 41.7000, "lng": 44.7900 }
+        },
+        {
+          "nom_recherche": "Parc Mtatsminda, Tbilissi",
+          "categorie": "Parc d\"attractions",
+          "coords": { "lat": 41.6960, "lng": 44.7820 }
+        },
+        {
+          "nom_recherche": "Panthéon de Mtatsminda, Tbilissi",
+          "categorie": "Cimetière",
+          "coords": { "lat": 41.6960, "lng": 44.7820 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Point de vue",
+          "texte": "Le Mont Mtatsminda offre l\"un des meilleurs points de vue pour admirer le coucher de soleil sur Tbilissi. N\"oubliez pas votre appareil photo !"
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "📜",
+      "titre": "Mtskheta : Cœur Historique et Spirituel de la Géorgie",
+      "legende": "Partez pour une excursion d\"une journée à Mtskheta, l\"ancienne capitale et centre spirituel de la Géorgie. Visitez le monastère de Jvari, perché sur une colline, et la majestueuse Cathédrale de Svetitskhoveli. Imprégnez-vous de l\"histoire et de la sérénité de ces sites classés au patrimoine mondial de l\"UNESCO.",
+      "lieu": "Mtskheta",
+      "activites": [
+        "<strong>🚗 Excursion à Mtskheta</strong>: Voyagez vers cette ville historique, à seulement 30 minutes de Tbilissi.",
+        "<strong>⛪ Visite du Monastère de Jvari</strong>: Admirez ce monastère du VIe siècle offrant une vue spectaculaire sur la confluence des rivières Aragvi et Mtkvari.",
+        "<strong>🙏 Exploration de la Cathédrale de Svetitskhoveli</strong>: Découvrez cette cathédrale imposante, lieu de sépulture des rois géorgiens et site sacré."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Mtskheta, Géorgie",
+          "categorie": "Ville historique",
+          "coords": { "lat": 41.8400, "lng": 44.7200 }
+        },
+        {
+          "nom_recherche": "Monastère de Jvari, Mtskheta",
+          "categorie": "Monastère",
+          "coords": { "lat": 41.8380, "lng": 44.7350 }
+        },
+        {
+          "nom_recherche": "Cathédrale de Svetitskhoveli, Mtskheta",
+          "categorie": "Cathédrale",
+          "coords": { "lat": 41.8420, "lng": 44.7200 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "UNESCO",
+          "titre": "Patrimoine Mondial",
+          "texte": "Mtskheta est un site du patrimoine mondial de l\"UNESCO, témoignant de l\"importance historique et culturelle de la Géorgie."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🍷",
+      "titre": "Sighnaghi : La Ville de l\"Amour et Dégustation de Vins",
+      "legende": "Aventurez-vous dans la région viticole de Kakheti pour découvrir Sighnaghi, surnommée la \"Ville de l\"Amour\". Promenez-vous sur ses remparts médiévaux, visitez le paisible Monastère de Bodbe et terminez la journée par une dégustation de vins locaux. Une immersion douce dans la culture viticole géorgienne.",
+      "lieu": "Sighnaghi",
+      "activites": [
+        "<strong>🚗 Excursion à Sighnaghi</strong>: Voyagez vers cette charmante ville fortifiée dans la région de Kakheti.",
+        "<strong>🏰 Balade sur les remparts de Sighnaghi</strong>: Profitez des vues imprenables sur la vallée d\"Alazani et les montagnes du Caucase.",
+        "<strong>🙏 Visite du Monastère de Bodbe</strong>: Découvrez ce monastère orthodoxe et son jardin paisible, lieu de sépulture de Sainte Nino.",
+        "<strong>🍷 Dégustation de vins locaux</strong>: Participez à une dégustation dans un domaine viticole traditionnel pour savourer les vins géorgiens."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Sighnaghi, Géorgie",
+          "categorie": "Ville",
+          "coords": { "lat": 41.6090, "lng": 45.9200 }
+        },
+        {
+          "nom_recherche": "Monastère de Bodbe, Sighnaghi",
+          "categorie": "Monastère",
+          "coords": { "lat": 41.6000, "lng": 45.9300 }
+        },
+        {
+          "nom_recherche": "Pheasant\"s Tears Winery, Sighnaghi",
+          "categorie": "Cave à vin",
+          "coords": { "lat": 41.6090, "lng": 45.9180 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🍇",
+          "titre": "Vin Géorgien",
+          "texte": "La Géorgie est le berceau du vin, avec une tradition viticole de plus de 8 000 ans. Ne manquez pas de goûter le vin produit en qvevri (amphores en terre cuite)."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🍳",
+      "titre": "Retour à Tbilissi et Immersion Culinaire",
+      "legende": "Profitez d\"une matinée tranquille à Sighnaghi avant de retourner à Tbilissi. L\"après-midi est libre pour vous détendre ou explorer à votre guise. En soirée, participez à un cours de cuisine géorgienne pour apprendre les secrets des plats emblématiques. Une journée dédiée à la découverte des saveurs locales.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>🚶‍♀️ Matinée libre à Sighnaghi</strong>: Profitez d\"une dernière balade ou d\"un café avec vue avant de reprendre la route.",
+        "<strong>🚗 Retour à Tbilissi</strong>: Voyage de retour vers la capitale, avec un temps de repos à l\"arrivée.",
+        "<strong>👨‍🍳 Cours de cuisine géorgienne</strong>: Apprenez à préparer des plats traditionnels comme le Khinkali ou le Khachapuri, suivi d\"un dîner de vos créations."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Tbilissi, Géorgie",
+          "categorie": "Ville",
+          "coords": { "lat": 41.7167, "lng": 44.7833 }
+        },
+        {
+          "nom_recherche": "Georgian Cooking Class, Tbilissi",
+          "categorie": "Cours de cuisine",
+          "coords": { "lat": 41.6900, "lng": 44.8000 }
+        }
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🍽️",
+          "titre": "Gastronomie",
+          "texte": "La cuisine géorgienne est réputée pour sa diversité et ses saveurs uniques. Un cours de cuisine est une excellente façon de s\"immerger dans la culture locale."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🏛️",
+      "titre": "Avenue Rustaveli et Cœur Moderne de Tbilissi",
+      "legende": "Découvrez l\"élégante Avenue Rustaveli, l\"artère principale de Tbilissi, bordée de bâtiments historiques et de musées. Explorez la Place de la Liberté et visitez le Musée National de Géorgie pour un aperçu de l\"histoire et de l\"art du pays. Une journée culturelle et urbaine, rythmée par l\"histoire et la modernité.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>🚶‍♂️ Balade sur l\"Avenue Rustaveli</strong>: Admirez l\"architecture, les théâtres et les boutiques de cette avenue emblématique.",
+        "<strong>🗽 Exploration de la Place de la Liberté</strong>: Découvrez le cœur de Tbilissi, dominé par la statue de Saint Georges.",
+        "<strong>🖼️ Visite du Musée National de Géorgie</strong>: Plongez dans l\"histoire et l\"archéologie géorgiennes, y compris le Trésor d\"Or."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Avenue Rustaveli, Tbilissi",
+          "categorie": "Avenue",
+          "coords": { "lat": 41.7000, "lng": 44.7900 }
+        },
+        {
+          "nom_recherche": "Place de la Liberté, Tbilissi",
+          "categorie": "Place",
+          "coords": { "lat": 41.6930, "lng": 44.7930 }
+        },
+        {
+          "nom_recherche": "Musée National de Géorgie, Tbilissi",
+          "categorie": "Musée",
+          "coords": { "lat": 41.7000, "lng": 44.7900 }
+        }
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Culture",
+          "texte": "Le Musée National de Géorgie abrite des collections fascinantes, notamment des artefacts de l\"âge d\"or géorgien et des découvertes archéologiques uniques."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "🏞️",
+      "titre": "Lac des Tortues et Musée en Plein Air",
+      "legende": "Échappez à l\"agitation de la ville en prenant le téléphérique jusqu\"au paisible Lac des Tortues (Kus Tba). Profitez d\"une promenade relaxante autour du lac et visitez le Musée d\"Ethnographie en Plein Air. Une journée dédiée à la nature et à la découverte des traditions rurales géorgiennes.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>🚠 Téléphérique vers le Lac des Tortues</strong>: Montez en douceur pour atteindre ce lac pittoresque, offrant une vue agréable.",
+        "<strong>🚶‍♀️ Balade autour du Lac des Tortues</strong>: Profitez de l\"air frais et du calme pour une promenade relaxante au bord de l\"eau.",
+        "<strong>🏡 Visite du Musée d\"Ethnographie en Plein Air</strong>: Découvrez des exemples d\"architecture traditionnelle géorgienne et des objets du quotidien."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Lac des Tortues, Tbilissi",
+          "categorie": "Lac",
+          "coords": { "lat": 41.7080, "lng": 44.7490 }
+        },
+        {
+          "nom_recherche": "Musée d\"Ethnographie en Plein Air, Tbilissi",
+          "categorie": "Musée",
+          "coords": { "lat": 41.7080, "lng": 44.7490 }
+        }
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "🐢",
+          "titre": "Nature Urbaine",
+          "texte": "Le Lac des Tortues est un lieu prisé des habitants pour se détendre et profiter de la nature, même en hiver, avec des cafés et des sentiers de promenade."
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "🗿",
+      "titre": "Uplistsikhe : Cité Troglodyte et Histoire Ancienne",
+      "legende": "Partez pour une excursion fascinante vers Uplistsikhe, une ancienne cité troglodyte creusée dans la roche. Explorez ses grottes, ses temples et ses habitations datant de l\"âge du fer. Une immersion unique dans l\"histoire préchrétienne de la Géorgie, avec une exploration douce et enrichissante.",
+      "lieu": "Uplistsikhe",
+      "activites": [
+        "<strong>🚗 Excursion à Uplistsikhe</strong>: Voyagez vers cette incroyable cité rupestre, un site archéologique majeur.",
+        "<strong>🚶‍♂️ Exploration de la Cité Troglodyte</strong>: Promenez-vous à travers les différentes structures creusées dans la roche, des théâtres aux pharmacies.",
+        "<strong>📸 Admiration des paysages</strong>: Profitez des vues sur la rivière Mtkvari et les formations rocheuses environnantes."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Uplistsikhe, Géorgie",
+          "categorie": "Site archéologique",
+          "coords": { "lat": 41.9600, "lng": 44.2000 }
+        }
+      ],
+      "illustration": "jour10.jpg",
+      "encarts": [
+        {
+          "symbole": "⚠️",
+          "titre": "Attention",
+          "texte": "Les surfaces peuvent être glissantes à Uplistsikhe, surtout en janvier. Prévoyez des chaussures confortables et antidérapantes."
+        }
+      ]
+    },
+    {
+      "jour": 11,
+      "symbole": "🎨",
+      "titre": "Fabrika, Art Urbain et Marché Local",
+      "legende": "Découvrez Fabrika, un ancien atelier de couture transformé en un hub culturel vibrant, avec ses cafés, boutiques et street art. Promenez-vous sur l\"élégante Avenue Agmashenebeli et terminez par une immersion authentique au marché Dezerter. Une journée pour apprécier la facette moderne et locale de Tbilissi.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>🎨 Visite de Fabrika</strong>: Explorez ce centre créatif, admirez le street art et profitez de l\"ambiance décontractée.",
+        "<strong>🚶‍♀️ Balade sur l\"Avenue Agmashenebeli</strong>: Découvrez cette rue piétonne rénovée, bordée de bâtiments du XIXe siècle et de cafés.",
+        "<strong>🍎 Immersion au Marché Dezerter</strong>: Plongez dans l\"effervescence de ce grand marché couvert, où les locaux achètent leurs produits frais."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Fabrika, Tbilissi",
+          "categorie": "Centre culturel",
+          "coords": { "lat": 41.7140, "lng": 44.7900 }
+        },
+        {
+          "nom_recherche": "Avenue Agmashenebeli, Tbilissi",
+          "categorie": "Avenue piétonne",
+          "coords": { "lat": 41.7080, "lng": 44.7930 }
+        },
+        {
+          "nom_recherche": "Marché Dezerter, Tbilissi",
+          "categorie": "Marché",
+          "coords": { "lat": 41.7180, "lng": 44.7900 }
+        }
+      ],
+      "illustration": "jour11.jpg",
+      "encarts": [
+        {
+          "symbole": "🛍️",
+          "titre": "Souvenirs Gourmands",
+          "texte": "Au marché Dezerter, vous trouverez des épices, des fruits secs, du fromage et d\"autres spécialités locales, parfaites pour ramener un peu de Géorgie chez vous."
+        }
+      ]
+    },
+    {
+      "jour": 12,
+      "symbole": "🌸",
+      "titre": "Jardin Botanique et Détente à Chardin Street",
+      "legende": "Profitez d\"une matinée paisible au Jardin Botanique National de Géorgie, un havre de paix en plein cœur de la ville. L\"après-midi, flânez dans la charmante Chardin Street, connue pour ses cafés et galeries. Une journée dédiée à la nature et à la douceur de vivre, idéale pour se ressourcer.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>🌳 Promenade au Jardin Botanique National</strong>: Explorez ce vaste jardin, même en hiver, pour une bouffée d\"air frais et de tranquillité.",
+        "<strong>☕ Détente à Chardin Street</strong>: Savourez un café ou un thé dans l\"un des nombreux établissements de cette rue animée et pittoresque.",
+        "<strong>🎁 Derniers achats de souvenirs</strong>: Profitez de l\"occasion pour trouver des cadeaux uniques et des objets d\"artisanat local."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Jardin Botanique National de Géorgie, Tbilissi",
+          "categorie": "Jardin",
+          "coords": { "lat": 41.6850, "lng": 44.8000 }
+        },
+        {
+          "nom_recherche": "Chardin Street, Tbilissi",
+          "categorie": "Rue piétonne",
+          "coords": { "lat": 41.6900, "lng": 44.8050 }
+        }
+      ],
+      "illustration": "jour12.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "Le Jardin Botanique est particulièrement beau sous la neige en janvier, offrant un paysage féerique et une atmosphère très calme."
+        }
+      ]
+    },
+    {
+      "jour": 13,
+      "symbole": "🧘‍♀️",
+      "titre": "Journée Libre et Relaxation",
+      "legende": "Cette journée est entièrement dédiée à votre bien-être et à vos envies. Vous pouvez revisiter un lieu coup de cœur, vous offrir un massage traditionnel géorgien, ou simplement vous détendre dans un café. Profitez de cette dernière journée complète pour vous imprégner une dernière fois de l\"atmosphère unique de Tbilissi, sans contrainte.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>✨ Journée libre</strong>: Choisissez de revisiter un quartier, de vous reposer à l\"hôtel ou de découvrir un musée moins connu.",
+        "<strong>💆‍♀️ Massage traditionnel géorgien</strong>: Offrez-vous un moment de pure relaxation dans un spa local.",
+        "<strong>🍽️ Dîner d\"adieu</strong>: Savourez un dernier repas géorgien dans un restaurant de votre choix, pour clôturer ce voyage en beauté."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Tbilissi, Géorgie",
+          "categorie": "Ville",
+          "coords": { "lat": 41.7167, "lng": 44.7833 }
+        }
+      ],
+      "illustration": "jour13.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Derniers Souvenirs",
+          "texte": "Si vous n\"avez pas encore trouvé le souvenir parfait, c\"est le moment idéal pour une dernière petite virée shopping dans les boutiques du Vieux Tbilissi."
+        }
+      ]
+    },
+    {
+      "jour": 14,
+      "symbole": "🛫",
+      "titre": "Départ de Tbilissi",
+      "legende": "Après un séjour mémorable en Géorgie, il est temps de préparer votre départ. Profitez d\"un dernier petit-déjeuner géorgien avant de vous rendre à l\"aéroport. Emportez avec vous les souvenirs de cette terre d\"hospitalité, de paysages magnifiques et de saveurs inoubliables.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>☕ Dernier petit-déjeuner</strong>: Savourez les saveurs locales une dernière fois.",
+        "<strong>🛄 Préparation des bagages</strong>: Assurez-vous que tout est prêt pour votre vol de retour.",
+        "<strong>🛫 Transfert à l\"aéroport</strong>: Départ de Tbilissi avec des souvenirs plein la tête."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport International de Tbilissi, Tbilissi",
+          "categorie": "Aéroport",
+          "coords": { "lat": 41.6700, "lng": 44.9500 }
+        }
+      ],
+      "illustration": "jour14.jpg",
+      "encarts": [
+        {
+          "symbole": "✈️",
+          "titre": "Conseil Voyage",
+          "texte": "Prévoyez suffisamment de temps pour le transfert vers l\"aéroport et les formalités d\"embarquement, surtout en période de forte affluence."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 259 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 60 €/pers", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 700 €/pers", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 900 €/pers", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 120 €/pers", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Printemps (Avril-Mai)", "symbole": "🌸" },
+    { "titre": "Automne (Septembre-Octobre)", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En janvier, les températures à Tbilissi varient entre -2°C et 7°C. Prévoyez des vêtements chauds, un manteau imperméable et des chaussures confortables pour la neige ou la pluie.", "symbole": "❄️" },
+    { "titre": "La monnaie est le Lari Géorgien (GEL). Les cartes de crédit sont largement acceptées dans les villes, mais prévoyez un peu de liquide pour les petits commerces ou les marchés.", "symbole": "💳" },
+    { "titre": "Le permis de conduire français est suffisant pour la location de voiture. La conduite se fait à droite. Les routes peuvent être enneigées ou verglacées en janvier, soyez vigilant.", "symbole": "🚗" },
+    { "titre": "Une carte SIM locale (Magti, Geocell) ou une eSIM est recommandée pour rester connecté. Le Wi-Fi est généralement disponible dans les hôtels et de nombreux cafés.", "symbole": "📶" },
+    { "titre": "Aucun visa n\"est requis pour les citoyens de l\"Union Européenne pour les séjours de moins d\"un an en Géorgie.", "symbole": "🛂" }
+  ],
+  "infos_decallees": [
+    { 
+      "symbole": "💡", 
+      "titre": "Le saviez-vous ?", 
+      "texte": "Le nom \"Tbilissi\" vient du mot géorgien \"tbili\", qui signifie \"chaud\". La ville a été nommée ainsi en raison de ses nombreuses sources d\"eau chaude sulfureuses, découvertes par le roi Vakhtang Ier Gorgasali au Ve siècle." 
+    },
+    { 
+      "symbole": "🙃", 
+      "titre": "Insolite", 
+      "texte": "La Géorgie est considérée comme le \"berceau du vin\", avec des preuves archéologiques de production de vin datant de 8 000 ans. Le pays utilise toujours des méthodes traditionnelles, comme la fermentation en qvevri (grandes jarres en terre cuite enterrées)." 
+    }
+  ],
+  "specialites_culinaires": [
+    { 
+      "symbole": "🧀", 
+      "titre": "Khachapuri", 
+      "description": "Le plat national géorgien, un délicieux pain au fromage. Il existe plusieurs variantes régionales, comme l\"Adjaruli Khachapuri en forme de bateau, garni d\"un œuf et de beurre." 
+    },
+    { 
+      "symbole": "🥟", 
+      "titre": "Khinkali", 
+      "description": "De grandes ravioles géorgiennes, généralement farcies de viande épicée (porc, bœuf ou agneau), de champignons ou de fromage. On les mange avec les doigts, en aspirant le bouillon avant de dévorer la farce." 
+    },
+    { 
+      "symbole": "🍬", 
+      "titre": "Churchkhela", 
+      "description": "Une confiserie traditionnelle géorgienne en forme de bougie, faite de noix (souvent des noix de Grenoble) enfilées sur une ficelle et trempées dans un jus de raisin épaissi avec de la farine. Un en-cas énergétique et savoureux." 
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-TBS/2026-01-09/2026-01-22", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Géorgie", "url": "https://georgia.travel/", "symbole": "📘" },
+    { "legende": "Transports en commun Tbilissi", "titre": "Tbilisi Transport Company", "url": "https://ttc.com.ge/en", "symbole": "🚇" },
+    { "legende": "Météo Tbilissi", "titre": "Météo Tbilissi", "url": "https://www.accuweather.com/fr/ge/tbilisi/290807/weather-forecast/290807", "symbole": "🌤️" }
+  ]
+}
